@@ -42,7 +42,7 @@
 
 
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 <!-- <div class='container'>
 <img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=AnishShah1803&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true" />
 &nbsp;
@@ -55,6 +55,18 @@
 </div>
 
 #
+
+### 🚧 Projects
+<a href="https://github.com/AnishShah1803/Chitter-Challenge-" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnishShah1803&repo=Chitter-Challenge-&theme=nightowl" />
+</a>
+<a href="https://github.com/AnishShah1803/News-Summary-Challenge-DF" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnishShah1803&repo=News-Summary-Challenge-DF&theme=nightowl" />
+</a>
+<div align="center">
+</div>
+
+# 
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anish-shah-3023b21a1) [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@anish.shah1803) 
 #
