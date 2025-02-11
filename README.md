@@ -3,10 +3,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+Developer;Creative+Problem+Solver;Leetcode+Enjoyer;Keyboard+Enthusiast)](https://git.io/typing-svg)
 # 📖 About Me
-😄 Pronouns: He/Him <br>🔭 I’m currently working on a mech board app that allows users to view anything new in the mechanical keyboard world and keep track of them<br>🌱 I’m currently learning TypeScript and practicing my python<br>🔮 I hope to learn to use kubernetes and docker in the near future <br> 👨‍💻 I have recently begun to test my abilities in JS, Java and Python using Leetcode <br>🎓 Computer Science graduate from Brunel University <br>✨ One Piece consumer <br>
+🌱 Currently developing in brightscript<br>🔮 Attempting to learn Vim now <br> 👨‍💻 Soon to be Leetcode wizard <br>✨ One Piece consumer <br>
 📫 How to reach me:
  - Email: **`anish.shah1803@gmail.com`**
- - Discord: **`Anish_S#5897`**
 
 
 ---
@@ -31,7 +30,6 @@
 <img align="left" alt="Numpy" width="21px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 <img align="left" alt="Pandas" width="21px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 <img align="left" alt="MySQL" width="21px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Tailwind" width="21px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <br/>
 
 
