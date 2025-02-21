@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+Developer;Creative+Problem+Solver;Leetcode+Enjoyer;Keyboard+Enthusiast)](https://git.io/typing-svg)
 # 📖 About Me
-🌱 Currently developing in brightscript<br>🔮 Attempting to learn Vim now <br> 👨‍💻 Soon to be Leetcode wizard <br>✨ One Piece consumer <br>
+🌱 Currently developing in brightscript<br>🔮 Attempting to use Vim now <br> 👨‍💻 Soon to be Leetcode wizard <br>✨ One Piece consumer <br>
 📫 How to reach me:
  - Email: **`anish.shah1803@gmail.com`**
 
